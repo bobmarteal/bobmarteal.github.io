@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on bob marteal</title>
-    <link>http://bobmarteal.github.io/post/index.xml</link>
+    <link>https://bobmarteal.github.io/post/index.xml</link>
     <description>Recent content in Posts on bob marteal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Mar 2017 18:50:06 -0400</lastBuildDate>
-    <atom:link href="http://bobmarteal.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bobmarteal.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>goodbye facebook</title>
-      <link>http://bobmarteal.github.io/post/goodbye-facebook/</link>
+      <link>https://bobmarteal.github.io/post/goodbye-facebook/</link>
       <pubDate>Wed, 22 Mar 2017 18:50:06 -0400</pubDate>
       
-      <guid>http://bobmarteal.github.io/post/goodbye-facebook/</guid>
+      <guid>https://bobmarteal.github.io/post/goodbye-facebook/</guid>
       <description>
 
 &lt;h1 id=&#34;goodbye-facebook&#34;&gt;Goodbye Facebook&lt;/h1&gt;
